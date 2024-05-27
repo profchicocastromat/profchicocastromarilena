@@ -3,6 +3,10 @@
 
 Bem-vindo ao meu perfil.
 
+Sou o professor Chico Castro
+
+Estou desenvolvendo com meus alunos, da 2ª série A, a programação em JavaScrip, com suporte da Alura (www.alura.com.br)
+
 Contatos: 
 
 E-mails:
